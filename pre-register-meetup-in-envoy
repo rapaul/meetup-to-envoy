@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo $MEETUP_API_KEY
+echo $ENVOY_API_KEY
